@@ -15,4 +15,8 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	//новый метод
+	public String getHunterReply() {
+		return "The hunter is always ready!";
+	}
 }
